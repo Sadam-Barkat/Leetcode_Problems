@@ -22,10 +22,10 @@ To explore my solutions in **leetcode_problems**, follow these steps:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Sadam-Barkat/Leetcode_Problems.git
-**LeetSync Integration
+#LeetSync Integration
 This repository uses LeetSync to automatically update with my latest LeetCode submissions, ensuring all recent solutions are available here.
 
-**Contribution Guidelines
+#Contribution Guidelines
 Contributions are welcome! If you’d like to suggest improvements or add new solutions, please open a pull request. Guidelines include:
 
 Use clean, well-commented code that follows best practices.
