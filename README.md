@@ -22,15 +22,14 @@ To explore my solutions in **leetcode_problems**, follow these steps:
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/Sadam-Barkat/Leetcode_Problems.git
-#LeetSync Integration
-This repository uses LeetSync to automatically update with my latest LeetCode submissions, ensuring all recent solutions are available here.
+## LeetSync Integration
 
-#Contribution Guidelines
+This repository uses **LeetSync** to automatically update with my latest LeetCode submissions, ensuring all recent solutions are available here.
+
+## Contribution Guidelines
+
 Contributions are welcome! If you’d like to suggest improvements or add new solutions, please open a pull request. Guidelines include:
 
-Use clean, well-commented code that follows best practices.
-Provide a brief explanation of your solution approach.
-Follow the directory structure and use descriptive commit messages.
-License
-
-
+- Use clean, well-commented code that follows best practices.
+- Provide a brief explanation of your solution approach.
+- Follow the directory structure and use descriptive commit messages.
