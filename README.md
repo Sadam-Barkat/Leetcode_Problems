@@ -21,4 +21,4 @@ To explore my solutions in **leetcode_problems**, follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/Sadam-Barkat/leetcode_problems.git
+   git clone https://github.com/Sadam-Barkat/Leetcode_Problems.git
