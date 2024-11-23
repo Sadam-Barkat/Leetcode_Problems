@@ -26,4 +26,8 @@ Given two strings `s` and `t`, return `true` if they are equal when both are typ
 ## Constraints
 
 - `1 <= s.length, t.length <= 200`
+<<<<<<< HEAD
 - `s` and `t` only contain lowercase letters and `#` characters
+=======
+- `s` and `t` only contain lowercase letters and `#` characters.
+>>>>>>> b89779cf6f400de0112ab3ee025a93cf9be9b717
