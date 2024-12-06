@@ -1,12 +1,12 @@
+from typing import List
+
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        sorted(nums)
-        arr = []
-         
-        for i in range(len(nums)):
-            count = 0 
-            for j in range(len(nums)):
-               if nums[i] > nums[j]:
-                count += 1
-            arr.append(count)
-        return arr          
+        sorted_num = sorted(nums)
+
+        num_to_count = {}
+        for i , num in enumerate(sorted_num):
+            if not num in num_to_count:
+                num_to_count[num] = i
+
+        return [num_to_count[num] for num in nums]        
