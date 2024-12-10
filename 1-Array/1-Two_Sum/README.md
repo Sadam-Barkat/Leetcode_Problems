@@ -1,7 +1,3 @@
-# Two Sum Problem
-
-This project provides a solution to the "Two Sum" problem, which involves finding two indices of numbers in an array that add up to a specified target.
-
 ## Problem Statement
 
 Given an array of integers `nums` and an integer `target`, return the indices of the two numbers such that they add up to the target. You may assume that each input would have exactly one solution, and you may not use the same element twice. The answer can be returned in any order.
