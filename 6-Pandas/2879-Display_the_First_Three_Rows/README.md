@@ -78,6 +78,3 @@ Copy code
 0   Apple    1.2        10
 1  Banana    0.5        20
 2  Cherry    3.5        15
-Explanation:
-df.head(3) returns the first three rows of the DataFrame.
-You can adjust the number inside head() to get a different number of rows if needed.
